@@ -1,7 +1,0 @@
-README.md
-setup.py
-urlhaus/__init__.py
-urlhaus.egg-info/PKG-INFO
-urlhaus.egg-info/SOURCES.txt
-urlhaus.egg-info/dependency_links.txt
-urlhaus.egg-info/top_level.txt
