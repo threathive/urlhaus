@@ -1,0 +1,51 @@
+Metadata-Version: 1.1
+Name: urlhaus
+Version: 0.0.1
+Summary: Simple api client for urlhaus.
+Home-page: https://github.com/threathive/urlhaus
+Author: Adam
+Author-email: adam@threathive.com
+License: UNKNOWN
+Description: urlhaus
+        =========
+        
+        Simple python client for querying the urlhaus public api.
+        
+        Further documentation for the api can be found here https://urlhaus-api.abuse.ch/ .
+        
+        Running the test code
+        ======================
+        
+        To run the test code: ``python3 tests.py``
+        
+        
+        Author
+        ======
+        
+        adam <adam@threathive.com>
+        
+        
+        License
+        =======
+        
+        urlhaus uses the MIT license, check LICENSE file.
+        
+        
+        Python versions
+        ===============
+        Python >= 3.5 should have no problems.
+        
+        Contributing
+        ============
+        
+        If you would like to contribute, fork the project, make a patch and send a pull request.
+        
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
