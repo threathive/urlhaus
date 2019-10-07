@@ -19,6 +19,7 @@ setup(name             = "urlhaus",
       description      = "Simple api client for urlhaus.",
       long_description = codecs.open("README.md", encoding="utf-8").read(),
       install_requires = [
+          'requests==2.21.0'
       ],
       extras_require = {
       },
